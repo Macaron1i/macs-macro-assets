@@ -1,27 +1,27 @@
 {
     "EGGLAND": {
         "color": 11795633,
-        "content": ""
+        "content": "",
         "image": "https://github.com/Macaron1i/macs-macro-assets/blob/main/assets/biomes/EGGLAND.png"
     },
     "NORMAL": {
         "color": 4915024,
-        "content": ""
+        "content": "",
         "image": "https://github.com/Macaron1i/macs-macro-assets/blob/main/assets/biomes/NORMAL.png"
     },
     "WINDY": {
         "color": 14941695,
-        "content": ""
+        "content": "",
         "image": "https://github.com/Macaron1i/macs-macro-assets/blob/main/assets/biomes/WINDY.png"
     },
     "SNOWY": {
         "color": 15790320,
-        "content": ""
+        "content": "",
         "image": "https://github.com/Macaron1i/macs-macro-assets/blob/main/assets/biomes/SNOWY.png"
     },
     "RAINY": {
         "color": 3375615,
-        "content": ""
+        "content": "",
         "image": "https://github.com/Macaron1i/macs-macro-assets/blob/main/assets/biomes/RAINY.png"
     },
     "SAND STORM": {
@@ -31,47 +31,47 @@
     },
     "HELL": {
         "color": 12714498,
-        "content": ""
+        "content": "",
         "image": "https://github.com/Macaron1i/macs-macro-assets/blob/main/assets/biomes/HELL.png"
     },
     "STARFALL": {
         "color": 4331775,
-        "content": ""
+        "content": "",
         "image": "https://github.com/Macaron1i/macs-macro-assets/blob/main/assets/biomes/STARFALL.png"
     },
     "HEAVEN": {
         "color": 16775605,
-        "content": ""
+        "content": "",
         "image": "https://github.com/Macaron1i/macs-macro-assets/blob/main/assets/biomes/HEAVEN.png"
     },
     "CORRUPTION": {
         "color": 8388863,
-        "content": ""
+        "content": "",
         "image": "https://github.com/Macaron1i/macs-macro-assets/blob/main/assets/biomes/CORRUPTION.png"
     },
     "NULL": {
         "color": 14540253,
-        "content": ""
+        "content": "",
         "image": "https://github.com/Macaron1i/macs-macro-assets/blob/main/assets/biomes/NULL.png"
     },
     "GLITCHED": {
         "color": 10288896,
-        "content": "@everyone"
+        "content": "@everyone",
         "image": "https://github.com/Macaron1i/macs-macro-assets/blob/main/assets/biomes/GLITCHED.png"
     },
     "DREAMSPACE": {
         "color": 16747513,
-        "content": "@everyone"
+        "content": "@everyone",
         "image": "https://github.com/Macaron1i/macs-macro-assets/blob/main/assets/biomes/DREAMSPACE.png"
     },
     "CYBERSPACE": {
         "color": 786617,
-        "content": "@everyone"
+        "content": "@everyone",
         "image": "https://github.com/Macaron1i/macs-macro-assets/blob/main/assets/biomes/CYBERSPACE.png"
     },
     "SINGULARITY": {
         "color": 16732160,
-        "content": ""
+        "content": "",
         "image": "https://github.com/Macaron1i/macs-macro-assets/blob/main/assets/biomes/SINGULARITY.png"
     }
 }
